@@ -1,0 +1,144 @@
+# Dark Blue Skin
+# https://gitlab.com/fentras/radium-radiator
+
+settings_version = 0.73 # dont change this one
+
+color0 = #ff505b59
+color1 = #ffffffff
+color2 = #ffe9eaea
+color3 = #ff3646d8
+color4 = #ff1628d1
+color5 = #ff101623
+color6 = #ff101623
+color7 = #fff26430
+color8 = #ffffffff
+color9 = #ff63696a
+color10 = #ff009ddc
+color12 = #ff3646d8
+color14 = #fffc00cc
+
+range_color = #ff009ddc
+
+soundfont_color = #ff20bffc
+soundfile_color = #ff20bffc
+current_soundfile_color = #ffffffff
+
+override_default_qt_colors = true
+last_color_version = 3.7.2
+
+colored_tracks = true
+bar_text_color = #ffffffff
+portamento_end_note_text_color = #ffff47da
+peaks_color = #ff3646d8
+peaks0db_color = #ff009ddc
+peaks4db_color = #fff26430
+note_event_indicator_color = #fff26430
+note_event_indicator_border_color = #ffe9eaea
+slider1_color = #ff101623
+slider2_color = #ff3646d8
+slider_disabled_color = #ff101623
+track_separator1_color = #00000000
+track_separator2_color = #00000000
+track_separator2_darkened_color = #00000000
+pitchlines_color = #ff009ddc
+cursor_edit_off_color = #ff656b77
+play_cursor_edit_off_color = #ffe9eaea
+automation_indicator_color = #ffe9eaea
+automation4_color = #ff00719c
+automation5_color = #fff26430
+automation6_color = #ffd0420d
+automation7_color = #ffff47da
+automation8_color = #ffff1ad3
+tempograph_color = #ffe9eaea
+pianonote_color = #ffe9eaea
+pianoroll_octave_color = #00000000
+pianoroll_note_name_color = #ffffffff
+pianoroll_note_border_color = #ffe9eaea
+zoomline_text1_color = #ff7f89e8
+zoomline_text2_color = #ff5865df
+zoomline_text3_color = #ff3645d8
+zoomline_text4_color = #ff1628d1
+zoomline_text5_color = #ff0e1b9b
+zoomline_text6_color = #ff09147e
+zoomline_text7_color = #ff050e5f
+velocity_text_color = #ff009ddc
+slider_text_color = #ffffffff
+mixer_text_color = #ffffffff
+mixer_border_color = #00e9eaea
+mixer_event_connection_color = #fff26430
+mixer_audio_connection_color = #ff009ddc
+track_slider_color = #ff656b77
+buttons_text_color = #ffffffff
+line_slider_color = #ff656b77
+slider_recording_color = #fff26430
+mixer_autosuspension_color = #7f2a2d34
+sequencer_currtrack_border_color = #ffe9eaea
+sequencer_border_color = #00e9eaea
+sequencer_text_color = #ffffffff
+sequencer_note_color = #ffe9eaea
+sequencer_note_start_color = #00000000
+sequencer_block_header_background_color = #00000000
+sequencer_block_background_color = #00000000
+sequencer_block_border_color = #32e9eaea
+sequencer_block_bar_color = #19e9eaea
+sequencer_block_beat_color = #00000000
+sequencer_track_border1_color = #00000000
+sequencer_track_border2_color = #00000000
+sequencer_cursor_color = #ffe9eaea
+sequencer_timeline_background_color = #ff181c25
+sequencer_tinmeline_arrow_color = #ff3645d8
+sequencer_navigator_handler_color = #00000000
+sequencer_navigator_grayout_color = #c8181c25
+mixer_selected_object_color_num = #54071780
+sequencer_block_selected_color = #32e9eaea
+sequencer_multiselect_block_background_color = #32e9eaea
+sequencer_grid_color = #00000000
+sequencer_tempo_automation_color = #ffe9eaea
+mixerstrips_selected_object_color_num = #ffe9eaea
+sequencer_block_interface_color = #00000000
+sequencer_block_audio_file_background_color = #00000000
+sequencer_waveform_color = #ff2a2d34
+sequencer_marker_color = #ff009ddc
+
+
+# These three colores are not used, but they are needed by older versions of Radium. (This file is copied to the users home area)
+color11 = #ff22282a
+color13 = #ff2c543c
+color15 = #ff585d55
+
+
+
+# edited colors:
+low_background_color = #ff2a2d34
+high_background_color = #ff181c25
+button_v2_color = #ff3645d8
+button_pressed_v2_color = #ff3645d8
+check_box_selected_v2_color = #ff3645d8
+check_box_unselected_v2_color = #ff101623
+scroll_bar_v2_color = #ff656b77
+scroll_bar_background_v2_color = #692a2d34
+tab_selected_color = #ff3645d8
+tab_unselected_color = #ff101623
+low_editor_background_color = #ff2a2d34
+high_editor_color = #ff181c25
+keyboard_focus_border_color = #ffe9eaea
+cursor_border_color = #00000000
+cursor_curr_column_border_color = #d0f26430
+mixer_current_object_border_color_num = #ffe9eaea
+mixer_selected_object_border_color_num = #ff3645d8
+default_bus_color = #ff3645d8
+default_seqtrack_instrument_color = #ff3645d8
+sequencer_curr_seqblock_border_color = #ffe9eaea
+sequencer_background_color = #ff181c25
+seqtracks_background_color = #ff2a2d34
+sequencer_text_current_block_color = #ffffffff
+sequencer_block_fade_box_color = #ff3645d8
+sequencer_block_interior_box_color = #ff3645d8
+sequencer_block_speed_box_color = #ff3645d8
+sequencer_block_stretch_box_color = #ff3645d8
+color_instrument_brightness_v2 = 0.4059999883174896
+color_instrument_brightness_in_editor_v2 = 0.3070000112056732
+color_block_brightness_v2 = 0.6290000081062317
+color_instrument_saturation_v2 = 0.8360000252723694
+color_instrument_saturation_in_editor_v2 = 0.6639999747276306
+color_block_saturation_v2 = 1
